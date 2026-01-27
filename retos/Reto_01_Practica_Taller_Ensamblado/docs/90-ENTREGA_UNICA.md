@@ -4,7 +4,7 @@ Copia aquí lo esencial de **toma de datos**, **investigación técnica**, **rec
 
 ## Portada
 
-## Indice
+## IndiceO
 
 ---
 ## Toma de datos — resumen

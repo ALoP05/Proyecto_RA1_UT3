@@ -1,9 +1,8 @@
 # 99 — Entrega y checklist
 
-- [ ] Todas las secciones completadas en `docs/`.
-- [ ] Capturas con URL + fecha/hora y dato marcado.
-- [ ] Tabla de comparables (65) y PVP objetivo definidos.
-- [ ] Presupuesto y ROI (75) con escenario elegido.
-- [ ] Métricas objetivas antes/después.
-- [ ] Consolidado en `90-ENTREGA_UNICA.md` y exportado a PDF.
-- [ ] Nombre del PDF: `apellido1_apellido2_nombre_FHW_UT3_Retro_02.pdf` (sin ñ/tildes).
+- [X] 02 Contexto y requisitos.
+- [x] 10 Diagnóstico (5 equipos mínimos) + capturas.
+- [x] 30 Búsqueda de mejoras **HW** (opciones, compatibilidad, impacto) + capturas.
+- [x] 65 Comparables y **PVP objetivo**.
+- [x] 75 Presupuesto **HW** y **ROI**.
+- [x] 90 ENTREGA ÚNICA consolidada en PDF y **norma de nombrado** aplicada.

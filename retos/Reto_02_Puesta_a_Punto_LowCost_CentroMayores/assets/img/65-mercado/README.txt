@@ -1,1 +1,1 @@
-Coloca aquí tus capturas numeradas con nombre claro.
+Guarda aquí tus capturas. Incluye URL completa y fecha/hora.
